@@ -1,4 +1,4 @@
-# Maersk Supply Data Risk Analysis
+# Maersk Supply Risk Analysis
 
 This repository contains a comprehensive analysis and modeling of the Maersk Supply data. The aim is to predict the class of a given instance based on various textual and categorical features, in this case, the cause of a part failure based on the symptoms. We have applied multiple machine learning methods to achieve this, including Random Forest, XGBoost, and MLP (Multi-Layer Perceptron).
 
